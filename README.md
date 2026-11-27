@@ -1,4 +1,4 @@
-## Welcome to Thirty Minutes to Merge
+## Welcome to Thirty Minutes to Merge - Develop BRANCH
 
 A project based learning activity for people who are getting started with branching with Git.
 
